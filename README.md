@@ -19,4 +19,4 @@ GlimmerOS是基于《30天自制操作系统》一书，借鉴其中很多思路
 
 未完仍然在开发学习中
 
-更多资料参考[https://github.com/yourtion/30dayMakeOS](https://github.com/yourtion/30dayMakeOS),[https://github.com/cfenollosa/os-tutorial](
+更多资料参考[https://github.com/yourtion/30dayMakeOS](https://github.com/yourtion/30dayMakeOS),[https://github.com/cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial)
