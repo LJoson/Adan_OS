@@ -17,6 +17,6 @@ GlimmerOS是基于《30天自制操作系统》一书，借鉴其中很多思路
 
   中断处理，鼠标控制等
 
-未完仍然在开发学习中
+未完仍然在开发学习中，更多开发可在[Glimmer](https://lj_evan.gitee.io/views/cs/os.html)
 
 更多资料参考[https://github.com/yourtion/30dayMakeOS](https://github.com/yourtion/30dayMakeOS),[https://github.com/cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial)
